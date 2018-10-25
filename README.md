@@ -9,6 +9,7 @@ I'm currently running the bot using a daily Cron job on AWS EC2.
 TL;DR technologies used:
 - Google Sheets API (sheets processing)
 - MatplotLib (graphing)
+- SMTPLib (emailing)
 - AWS EC2 (hosting)
 
 
